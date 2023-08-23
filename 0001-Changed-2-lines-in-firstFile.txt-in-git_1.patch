@@ -1,0 +1,24 @@
+From 0ea5cf5f65324861f7a0e2a3a6bbc9690a516ea8 Mon Sep 17 00:00:00 2001
+From: thecoocko <butenkonaddezhda@gmail.com>
+Date: Wed, 23 Aug 2023 12:36:05 +0200
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 0b669b6..ba0e815 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-1
+-2
++ffff
++ffffffffffffffffffffff
+ 3
+ 4
+ 5
+-- 
+2.37.1.windows.1
+
